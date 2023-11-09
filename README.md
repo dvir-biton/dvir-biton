@@ -2,7 +2,6 @@
 "I can debug a program faster than I can explain what it does 🚀"
 
 Hi! I'm Dvir :)
-I'm an app developer from Israel,
 I started my programming journey a few years ago with C++ and now I'm a full-time app developer with Kotlin.
 
 ## 🌐 Socials:
