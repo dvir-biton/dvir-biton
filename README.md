@@ -1,6 +1,4 @@
 # 💫 About Me:
-"I can debug a program faster than I can explain what it does 🚀"
-
 
 Hey there! 👋
 
