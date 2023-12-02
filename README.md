@@ -2,10 +2,15 @@
 "I can debug a program faster than I can explain what it does 🚀"
 
 Hey there! 👋
+
 I'm Dvir, a mobile developer deeply immersed in Kotlin and Jetpack Compose.
+
 Behind the scenes, I wield Ktor to craft powerful backends.
+
 I started my journey in software development with C++ and Qt,
+
 and I am now exploring the exciting realms of UI/UX and graphic design through Figma!
+
 🚀 Keep on grinding, I'll be the best app developer and UI/UX designer out there! 💻✨
 
 ## 🌐 Socials:
