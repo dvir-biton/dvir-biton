@@ -1,8 +1,12 @@
 # 💫 About Me:
 "I can debug a program faster than I can explain what it does 🚀"
 
-Hi! I'm Dvir :)
-I started my programming journey a few years ago with C++ and now I'm a full-time app developer with Kotlin.
+Hey there! 👋
+I'm Dvir, a mobile developer deeply immersed in Kotlin and Jetpack Compose.
+Behind the scenes, I wield Ktor to craft powerful backends.
+I started my journey in software development with C++ and Qt,
+and I am now exploring the exciting realms of UI/UX and graphic design through Figma!
+🚀 Keep on grinding, I'll be the best app developer and UI/UX designer out there! 💻✨
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HMXtmRfQQw) 
