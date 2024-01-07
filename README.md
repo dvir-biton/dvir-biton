@@ -37,5 +37,5 @@ and I am now exploring the exciting realms of UI/UX and graphic design through F
 
 ## Latest project:
 ```bash
-git clone https://github.com/fylora/WaterMyPlants.git
+git clone https://github.com/fylora/ktor-login-exposed.git
 ```
