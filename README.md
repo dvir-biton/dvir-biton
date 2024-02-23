@@ -11,8 +11,6 @@ I'm Dvir, a passionate mobile developer and UI/UX designer, who turns ideas into
 - 🖌️ **Graphic Design**: My skills in graphic design allow me to add a unique creative touch to my projects, ensuring they stand out in the crowded digital landscape.
 - 🌱 **Continuously Learning**: The tech world is ever-evolving, and so am I. I'm constantly exploring new technologies and methodologies to stay at the cutting edge and bring innovative solutions to the table.
 
----
-
 ## 💡 Open to Collaboration:
 
 I'm always looking for exciting projects and opportunities to collaborate with fellow developers and designers. Whether it’s contributing to open-source projects or teaming up for a new venture, I believe in the power of teamwork to achieve remarkable results.
