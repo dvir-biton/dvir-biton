@@ -18,7 +18,7 @@ I'm Dvir, a passionate mobile developer and UI/UX designer, who turns ideas into
       "total errors": [9999, "And keep going"],
       "years of coding experience": 6,
       "favorite language": "Kotlin",
-      "My dream": "Become an app developer and a designer"
+      "My dream": "Become the best mobile developer and designer"
     }
   }
 }
