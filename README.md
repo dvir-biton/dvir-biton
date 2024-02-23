@@ -19,6 +19,27 @@ I'm always looking for exciting projects and opportunities to collaborate with f
 
 Feel free to browse my repositories to see my latest projects and contributions. From sophisticated mobile apps to innovative UI designs, you’ll find a showcase of my dedication to quality and excellence.
 
+```json
+{
+  "username": "Fylora",
+  "name": "Dvir Biton",
+  "skill tree": {
+    "tools": [
+      {"name": "Android Studio", "proficiency": "Advanced", "years of experience": 4},
+      {"name": "IntelliJ", "proficiency": "Advanced", "years of experience": 4},
+      {"name": "Figma", "proficiency": "Intermediate", "years of experience": 2}
+    ],
+    "skills": ["Kotlin", "C++", "UI/UX"]
+    "stats": {
+      "total errors": [9999, "And keep going"],
+      "years of coding experience": 6,
+      "favorite language": "Kotlin",
+      "My dream": "Become an app developer and a designer"
+    }
+  }
+}
+```
+
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
