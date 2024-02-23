@@ -6,10 +6,15 @@
 ### 🚀 What I Do:
 
 📱 Mobile Development: Specializing in Kotlin, I create dynamic, high-performance Android applications using Jetpack Compose. My focus is on writing clean, maintainable code for scalable and efficient apps.
+
 🎨 UI/UX Design: With a keen eye for design and a user-centered approach, I design apps that are visually appealing and user-friendly, enhancing the overall user experience.
+
 💾 Backend Development: Leveraging Ktor for server-side logic, I ensure that my applications are supported by robust and secure backends, capable of handling real-time data and complex functionalities.
+
 🖌️ Graphic Design: My skills in graphic design allow me to add a unique creative touch to my projects, ensuring they stand out in the crowded digital landscape.
+
 🌱 Continuously Learning: The tech world is ever-evolving, and so am I. I'm constantly exploring new technologies and methodologies to stay at the cutting edge and bring innovative solutions to the table.
+
 
 💡 Open to Collaboration: I'm always looking for exciting projects and opportunities to collaborate with fellow developers and designers. Whether it’s contributing to open-source projects or teaming up for a new venture, I believe in the power of teamwork to achieve remarkable results.
 
