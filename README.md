@@ -19,44 +19,29 @@
  🔍 <strong>Explore My Work:</strong> Feel free to browse my repositories to see my latest projects and contributions. From sophisticated mobile apps to innovative UI designs, you’ll find a showcase of my dedication to quality and excellence.
 </p>
 
-<h2 align="center">💻 Tech Stack:</h2>
-<p align="center">
- <!-- Tech badges -->
- <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-</p>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<h2 align="center">🌐 Socials:</h2>
-<p align="center">
- <!-- Social badges -->
- <a href="https://discord.gg/HMXtmRfQQw"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HMXtmRfQQw) 
 
-<!-- Visitor count -->
-<p align="center">
- <img src="https://visitcount.itsvg.in/api?id=fylora&icon=0&color=0">
-</p>
+[![](https://visitcount.itsvg.in/api?id=fylora&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=fylora&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=fylora&theme=dark&hide_border=false"><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fylora&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fylora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fylora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fylora&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=fylora&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fylora&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">💰 You can help me by Donating</h2>
-<p align="center">
- <a href="https://buymeacoffee.com/bidbidapps"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-</p>
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bidbidapps) 
 
-<h2 align="center">🔥 Latest project:</h2>
-<p align="center">git clone https://github.com/fylora/ktor-login-exposed.git</p>
+## Latest project:
+```bash
+git clone https://github.com/fylora/ktor-login-exposed.git
+``` 
