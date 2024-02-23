@@ -27,6 +27,7 @@ Feel free to browse my repositories to see my latest projects and contributions.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HMXtmRfQQw) 
 
+## 👤 How many of you saw my profile:
 [![](https://visitcount.itsvg.in/api?id=fylora&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
