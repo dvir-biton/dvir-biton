@@ -3,7 +3,7 @@
  Hey there! 👋
  I'm Dvir, a passionate mobile developer and UI/UX designer, who makes ideas into reality.
 
-🚀 What I Do:
+## 🚀 What I Do:
 
 📱 Mobile Development: Specializing in Kotlin, I create dynamic, high-performance Android applications using Jetpack Compose. My focus is on writing clean, maintainable code for scalable and efficient apps.
 🎨 UI/UX Design: With a keen eye for design and a user-centered approach, I design apps that are visually appealing and user-friendly, enhancing the overall user experience.
