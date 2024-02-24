@@ -2,6 +2,7 @@
 
 Hey there! 👋  
 I'm Dvir, a passionate mobile developer and UI/UX designer, who turns ideas into reality.
+Just trying to make apps and chill 😴
 
 ```json
 {
