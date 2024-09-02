@@ -50,8 +50,7 @@ Feel free to browse my repositories to see my latest projects and contributions.
 [![](https://visitcount.itsvg.in/api?id=fylora&label=Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dvir-biton&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=dvir-biton&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dvir-biton&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvir-biton&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvir-biton&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
