@@ -1,7 +1,12 @@
 # 💫 About Me:
 
 Hey there! 👋  
-I'm Dvir, a mobile developer and UI/UX designer. 
+Hi, I’m Dvir, a Mobile Developer and UI/UX Designer.
+I’ve loved the idea of turning ideas into reality from a young age,
+and that’s what drove me to follow my dream of becoming a Mobile Developer.
+I’m hard-working and always striving to learn and improve.
+
+Where’s my next challenge?! ;)
 
 ```json
 {
