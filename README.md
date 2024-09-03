@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 Hey there! 👋  
-Hi, I’m Dvir, a Mobile Developer and UI/UX Designer.
-I’ve loved the idea of turning ideas into reality from a young age,
-and that’s what drove me to follow my dream of becoming a Mobile Developer.
+I’m Dvir, a Mobile Developer and UI/UX Designer.
+From a young age, I loved the idea of turning ideas into reality,
+which drove me to follow my dream of becoming a Mobile Developer.
 I’m hard-working and always striving to learn and improve.
 
 Where’s my next challenge?! ;)
