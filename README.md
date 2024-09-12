@@ -15,7 +15,7 @@ Where’s my next challenge?! ;)
   "skill tree": {
     "skills": [
       {"name": "Kotlin", "years of experience": 4},
-      {"name": "Flutter", "years of experience": 4},
+      {"name": "Flutter", "years of experience": 2},
       {"name": "UI/UX", "years of experience": 2}
     ],
     "stats": {
