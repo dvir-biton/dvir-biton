@@ -19,10 +19,9 @@ Where’s my next challenge?! ;)
       {"name": "UI/UX", "years of experience": 2}
     ],
     "stats": {
-      "total errors": 9999,
       "years of coding experience": 6,
       "favorite language": "Kotlin",
-      "My dream": "Become the best mobile developer and ui/ux designer"
+      "My dream": "Become the best Mobile Developer and UI/UX Designer"
     }
   }
 }
