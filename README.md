@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hey there! 👋  
-I’m Dvir, a Mobile Developer and UI/UX Designer.
+I’m Dvir, a Mobile Developer.
 From a young age, I loved the idea of turning ideas into reality,
 which drove me to follow my dream of becoming a Mobile Developer.
 I’m hard-working and always striving to learn and improve.
@@ -15,8 +15,7 @@ Where’s my next challenge?! ;)
   "skill tree": {
     "skills": [
       {"name": "Kotlin", "years of experience": 4},
-      {"name": "Flutter", "years of experience": 2},
-      {"name": "UI/UX", "years of experience": 2}
+      {"name": "Flutter", "years of experience": 2}
     ],
     "stats": {
       "years of coding experience": 6,
