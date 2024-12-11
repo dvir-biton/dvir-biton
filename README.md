@@ -20,7 +20,7 @@ Where’s my next challenge?
     "stats": {
       "years of coding experience": 6,
       "favorite language": "Kotlin",
-      "My dream": "Become the best Mobile Developer and UI/UX Designer"
+      "My dream": "Become the Developer I can be"
     }
   }
 }
