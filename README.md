@@ -1,12 +1,12 @@
 # 💫 About Me:
 
 Hey there! 👋  
-I’m Dvir, a Mobile Developer.
+I’m Dvir, a Fullstack Mobile Developer.
 From a young age, I loved the idea of turning ideas into reality,
-which drove me to follow my dream of becoming a Mobile Developer.
+which drove me to follow my dream of becoming a Developer.
 I’m hard-working and always striving to learn and improve.
 
-Where’s my next challenge?! ;)
+Where’s my next challenge?
 
 ```json
 {
