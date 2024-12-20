@@ -3,7 +3,7 @@
 Hey there! 👋  
 I’m Dvir, a Fullstack Mobile Developer.
 From a young age, I loved the idea of turning ideas into reality,
-which drove me to follow my dream of becoming a Developer.
+which drove me to follow my dreams.
 I’m hard-working and always striving to learn and improve.
 
 Where’s my next challenge?
