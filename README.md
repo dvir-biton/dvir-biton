@@ -1,26 +1,26 @@
 # 💫 About Me:
 
 Hey there! 👋  
-I’m Dvir, a Fullstack Mobile Developer.
+I’m Dvir, an embedded developer.
 From a young age, I loved the idea of turning ideas into reality,
 which drove me to follow my dreams.
-I’m hard-working and always striving to learn and improve.
+I’m a hard worker and always striving to learn and improve.
 
 Where’s my next challenge?
 
 ```json
 {
   "name": "Dvir Biton",
-  "username": "dvir-biton",
   "skill tree": {
     "skills": [
       {"name": "Kotlin", "years of experience": 4},
-      {"name": "Flutter", "years of experience": 2}
+      {"name": "C/C++", "years of experience": 3}
+      {"name": "ASM", "years of experience": 3}
     ],
     "stats": {
-      "years of coding experience": 6,
-      "favorite language": "Kotlin",
-      "My dream": "Become the Developer I can be"
+      "years of coding experience": 7,
+      "favorite language": "C",
+      "My dream": "Become the best developer I can be"
     }
   }
 }
