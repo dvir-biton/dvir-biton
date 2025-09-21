@@ -12,9 +12,10 @@ Where’s my next challenge?
   "name": "Dvir Biton",
   "skill tree": {
     "skills": [
-      {"name": "Kotlin", "years of experience": 4},
-      {"name": "C/C++", "years of experience": 3}
-      {"name": "ASM", "years of experience": 3}
+      {"name": "Kotlin", "type": "lang"},
+      {"name": "C/C++", "type": "lang"},
+      {"name": "ASM", "type": "lang"},
+      {"name": "Basketball", "type": "I need to move sometimes"}
     ],
     "stats": {
       "years of coding experience": 7,
